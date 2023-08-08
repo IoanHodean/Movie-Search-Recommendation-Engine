@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-csv-1.10.0">
+    <archive path="C:/Program Files/JetBrains/commons-csv-1.10.0/commons-csv-1.10.0.jar" />
+  </library>
+  <library name="commons-csv-1.10">
+    <archive path="C:/Program Files/JetBrains/commons-csv-1.10.0/apache-csv.jar" />
+    <archive path="C:/Program Files/JetBrains/commons-csv-1.10.0/commons-csv-1.10.0.jar" />
+    <archive path="C:/Program Files/JetBrains/commons-csv-1.10.0/commons-csv-1.10.0-sources.jar" />
+  </library>
+</eclipse-userlibraries>
+
